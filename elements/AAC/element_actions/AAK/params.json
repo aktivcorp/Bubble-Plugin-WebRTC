@@ -1,0 +1,12 @@
+{
+    "caption": "connect",
+    "fields": {
+        "AAM": {
+            "caption": "streamName",
+            "editor": "DynamicValue",
+            "name": "streamName",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}

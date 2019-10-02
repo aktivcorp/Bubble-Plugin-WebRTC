@@ -1,0 +1,12 @@
+{
+    "caption": "publish",
+    "fields": {
+        "AAW": {
+            "caption": "usersEmail",
+            "editor": "DynamicValue",
+            "name": "usersEmail",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}

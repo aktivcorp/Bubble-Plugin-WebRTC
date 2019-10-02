@@ -1,0 +1,13 @@
+{
+    "caption": "setBitrate",
+    "fields": {
+        "AAa": {
+            "caption": "videoBitrate",
+            "default_val": 3000,
+            "editor": "DynamicValue",
+            "name": "videoBitrate",
+            "rank": 0,
+            "value": "number"
+        }
+    }
+}

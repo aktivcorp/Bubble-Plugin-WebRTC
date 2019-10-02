@@ -1,0 +1,41 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 480,
+        "width": 640
+    },
+    "display": "WebRTC_Video",
+    "edit_mode_image": "//s3.amazonaws.com/appforest_uf/f1526375764075x315621027955785400/reset.png",
+    "fields": {
+        "AAH": {
+            "caption": "client",
+            "default_val": false,
+            "editor": "Checkbox",
+            "name": "client",
+            "rank": 0
+        }
+    },
+    "icon": "ion-videocamera",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    },
+    "states": {
+        "AAP": {
+            "caption": "token",
+            "name": "token",
+            "value": "text"
+        },
+        "AAS": {
+            "caption": "orient",
+            "name": "orient",
+            "value": "text"
+        },
+        "AAT": {
+            "caption": "stream",
+            "name": "stream",
+            "value": "text"
+        }
+    }
+}

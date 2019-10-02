@@ -1,0 +1,12 @@
+{
+    "caption": "nameIt",
+    "fields": {
+        "AAV": {
+            "caption": "usersEmail",
+            "editor": "DynamicValue",
+            "name": "userEmail",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}

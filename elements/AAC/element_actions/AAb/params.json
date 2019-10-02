@@ -1,0 +1,12 @@
+{
+    "caption": "setQuality",
+    "fields": {
+        "AAc": {
+            "caption": "quality",
+            "editor": "DynamicValue",
+            "name": "quality",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}

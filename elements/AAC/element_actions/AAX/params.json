@@ -1,0 +1,13 @@
+{
+    "caption": "setResolution",
+    "fields": {
+        "AAZ": {
+            "caption": "width",
+            "default_val": 640,
+            "editor": "DynamicValue",
+            "name": "width",
+            "rank": 0,
+            "value": "number"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "dependencies": {
+        "use_jquery": true
+    },
+    "shared_keys": {
+        "AAd": {
+            "caption": "wowza_host",
+            "type": "client_safe"
+        },
+        "AAe": {
+            "caption": "records_url",
+            "type": "client_safe"
+        }
+    }
+}
